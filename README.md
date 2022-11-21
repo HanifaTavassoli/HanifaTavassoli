@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanifatavassoli&show_icons=true&locale=en" alt="hanifatavassoli" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanifatavassoli&" alt="hanifatavassoli" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanifatavassoli&theme=radical()" alt="hanifatavassoli" /></p>
