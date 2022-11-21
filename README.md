@@ -1,4 +1,4 @@
-<h1 align="center">Hi ??, I'm Hanifa Tavassoli</h1>
+<h1 align="center">Hi 👋, I'm Hanifa Tavassoli</h1>
 <h3 align="center">A web developer from Afghanistan</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
