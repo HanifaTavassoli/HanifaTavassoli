@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hanifa Tavassoli</h1>
 <h3 align="center">A web developer from Afghanistan</h3>
-<img align="center" alt="coding" width="550" height="320" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align="center" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="520" height="320" />
 
 - 🌱 I’m currently learning **laravel , livewire , Alpine js**
 
