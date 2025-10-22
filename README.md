@@ -1,13 +1,15 @@
-<h1 align="center">
+<div align="center">
+<h1>
   <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Hanifa Tavassoli</h1>
-<h2 align="center">Front-end developer</h2>
-<p align="center">
-<img align="center" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="550" height="300" />
+<h3><Strong>Front-end developer</Strong></h3>
+<p>
+<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="550" height="300" />
 </p>
+</div>
 <br/>
 <br/>
 <div> 
-<h2 align="center" style="border-bottom:none">Skills:</h2>
+<h3 align="center" style="border-bottom:none"><strong>Skills</strong></h3>
 <p align="center"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwindcss,js,react,git" />
@@ -17,7 +19,7 @@
 <br/>
 <br/>
 <div>
-  <h2 align="center">Familiar Skills:</h2>
+  <h3 align="center"><strong>Familiar Skills</strong></h3>
 <p align="center"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,php,laravel,wordpress" />
